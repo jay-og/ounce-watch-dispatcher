@@ -54,9 +54,9 @@ In a shared **PostgreSQL** database:
 
 ---
 
-### Phase C: Big O & Logic
+### Phase C:
 
-#### 1. **Optimization**
+#### 1. **Optimisation**
 Given the problem's complexity of **O(N × M)**:
 - **Question:** With **10 metals** and $N$ tenants already being processed, how would you scale the architecture to handle **10,000 metal assets** efficiently?
 
